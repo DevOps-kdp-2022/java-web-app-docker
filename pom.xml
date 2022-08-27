@@ -104,13 +104,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Fipkart Releases Nexus Repository</name>
-	      <url>http://43.205.191.254:8081/repository/maven-web-app-release/</url>
+	      <name>Sivakoti_freestyle_Project Releases Nexus Repository</name>
+	      <url>http://13.235.8.82:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Flipkart Snapshot Nexus Repository </name>
-	      <url>http://43.205.191.254:8081/repository/maven-web-app-snapshot/</url>
+	      <name>Sivakoti_freestyle_Project Snapshot Nexus Repository </name>
+	      <url>http://13.235.8.82:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
