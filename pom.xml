@@ -104,13 +104,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Sivakoti_freestyle_Project Releases Nexus Repository</name>
-	      <url>http://13.234.19.54:8081/repository/maven-releases/</url>
+	      <name>maven_Project_Project Releases Nexus Repository</name>
+	      <url>http://13.232.36.4:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Sivakoti_freestyle_Project Snapshot Nexus Repository </name>
-	      <url>http://13.234.19.54:8081/repository/maven-snapshots/</url>
+	      <name>Maven_Project_Project Snapshot Nexus Repository </name>
+	      <url>http://13.232.36.4:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
